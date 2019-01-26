@@ -1,10 +1,10 @@
 var age = 21;
 if (age > 17) {
-  alert( 'Учеба' );
+  console.log( 'Учеба' );
   }
-if (age < 17, > 64) {
-  alert( 'Работа' );
+if (age < 17 && age > 64) {
+  comsole.log( 'Работа' );
   }
 if (age < 100) {
-  alert( 'Пенсия' );
+  console.log( 'Пенсия' );
   }
